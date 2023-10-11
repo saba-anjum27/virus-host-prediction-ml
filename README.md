@@ -32,4 +32,4 @@ Our dataset was meticulously assembled from the ViralZone database, classifying 
 2. Install the required dependencies.
 3. Follow the provided Jupyter Notebooks for data processing and model implementation.
 
-   For more details, please refer to the Jupyter Notebooks and project documentation.
+   For more details, please refer to the Jupyter Notebooks and project report.
