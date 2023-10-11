@@ -2,7 +2,7 @@
 Viral Host Prediction using Machine Learning\
 
 ## Overview
-This project focuses on predicting the host of viruses based on their DNA sequences. We utilized machine learning and deep learning models to classify viruses into distinct host classes, including humans, plants, vertebrates, invertebrates, bacteria, eukaryotic microorganisms, archaea, and fungi.  By accurately predicting viral host specificity, we can gain valuable insights into virus-host interactions, facilitate disease surveillance, and enhance our understanding of viral transmission patterns. The project's outcome can significantlycontribute to scientific research, public health, and environmental protection, making it a valuable asset to the academic community and society as a whole.
+This project focuses on predicting the host of viruses based on their DNA sequences. We utilized machine learning and deep learning models to classify viruses into distinct host classes, including humans,plants, vertebrates, invertebrates, bacteria, eukaryotic microorganisms, archaea, and fungi.By accurately predicting viral host specificity, we can gain valuable insights into virus-host interactions, facilitate disease surveillance, and enhance our understanding of viral transmission patterns.The project's outcome can significantlycontribute to scientific research, public health, and environmental protection, making it a valuable asset to the academic community and society as a whole.
 
 ## Key Achievements
 - Developed robust machine learning and deep learning models for accurate host classification.
