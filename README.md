@@ -17,7 +17,7 @@ This project focuses on predicting the host of viruses based on their DNA sequen
 - Natural Language Processing
 - Ensemble Methods
 - Model Optimization
-- Deep Learning
+- Deep Learning(CNN, LSTM)
   
 ## Dataset
 Our dataset was meticulously assembled from the ViralZone database, classifying viruses into eight primary host classes. We retrieved viral DNA sequences from these host classes through links on ViralZone, which led to the NCBI database. To ensure balanced training data, we selected 35 sequences from each class, forming an equally distributed dataset.
